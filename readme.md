@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Rakshit Kandoria]
+# Hi 👋, I'm Rakshit Kandoria
 
 A Data Science Enthusiast & Data Analytics Practitioner  
 
